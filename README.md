@@ -75,14 +75,13 @@
 
 <h2 align="center"><i>Tech Stack</i></h2>
 <p align="center">
-    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="git">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="github">
+    
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"> 
     <img src="https://github.com/user-attachments/assets/a6286010-e5e6-4f8d-968c-9d319511dc44" alt="python" width="120" height="80"> 
     <img src="https://github.com/user-attachments/assets/e2b0b61b-7bc8-4cc6-8a79-e0d206eb48d7" alt="git" width="80" height="80"> 
     <img src="https://github.com/user-attachments/assets/e40777c2-b67d-4846-8a71-957d75c3e193" alt="github" width="80" height="80"> 
     <img src="https://github.com/user-attachments/assets/5fed2f28-9562-49ea-827e-53847c18ec48" alt="tableau" width="80" height="80"> 
-    <img src="https://github.com/user-attachments/assets/a1ff27f6-628a-4259-bccc-50914ab17c88" alt="vscode" width="80" height="80"> 
+    
 </p>
 <br>
 
