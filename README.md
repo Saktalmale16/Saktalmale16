@@ -7,7 +7,7 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>Aspiring Data Analyst / Tableau / MySQL / Python / Power BI / Excel</i>
+    <i>Aspiring Data Analyst | Tableau | MySQL | Python | Power BI | Excel</i>
     <br>
     <i>Passionate about turning raw data into actionable insights. Proficient in data cleaning, visualization, and analysis using SQL, Python, Power BI, and Excel. Eager to apply analytical skills to real-world problems.</i>
 </h3>
