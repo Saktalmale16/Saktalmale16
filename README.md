@@ -34,7 +34,7 @@
 
 -🔭 I’m currently working on Data Analysis and Visualization Projects
 
--🌱 I’m currently learning and exploring SQL, Python, Power BI, and Excel
+-🌱 I’m currently learning and exploring Tableau,MySQL, Python, Power BI, and Excel
 
 -💬 Ask me about Data Cleaning, Visualization, SQL Queries, Python for Data Analysis, and Dashboarding
 
